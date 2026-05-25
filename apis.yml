@@ -1,0 +1,97 @@
+aid: lyra-health
+name: Lyra Health
+description: >-
+  Lyra Health is a Burlingame, California enterprise mental health benefits
+  company founded in 2015 that provides employer-sponsored behavioral health
+  care to more than 20 million members across a network of 30,000+ providers
+  in over 200 countries and territories. The platform combines preventive
+  self-care resources, coaching, evidence-based therapy, medication
+  management, family and pediatric services, and specialized acute care
+  delivered through a benefits-administration model sold to large employers
+  and health plans rather than directly to consumers. Lyra's product surface
+  includes the Lyra App for members, the Lyra Empower AI-powered care
+  platform launched in 2025, Centers of Excellence for pediatric mental
+  health and neurodiversity, a manager coaching program, and a clinical-grade
+  AI guide. Customers include Salesforce, Lululemon, Morgan Stanley,
+  Genentech, Starbucks, JE Dunn, VCA, and the School District of
+  Philadelphia, and in March 2026 the company became Workday Wellness's
+  preferred mental health partner. Lyra acquired pediatric and family
+  mental health provider Bend Health in July 2025. Lyra is led by CEO
+  Jennifer Schulz, with Jenny Gonsalves as Chief Product & Technology
+  Officer, Alethea Varra as Chief Clinical Officer, and co-founder Bob
+  Kocher, MD on the board. The company's revenue model is per-member-per-
+  month employer contracts plus utilization-based clinical billing; Lyra
+  does not publish a public developer portal, OpenAPI specification, SDK,
+  CLI, or self-service API, and its only public GitHub repository is an
+  internal fork of an unrelated infrastructure module. All employer,
+  member, HRIS/eligibility, SSO, and EHR integrations are negotiated and
+  delivered through the Lyra customer success and implementation teams
+  rather than through a self-serve developer surface.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Mental Health
+  - Behavioral Health
+  - Employee Benefits
+  - Enterprise Benefits
+  - Workforce Wellness
+  - Employee Assistance Program
+  - Therapy
+  - Coaching
+  - Medication Management
+  - Pediatric Mental Health
+  - Family Care
+  - Telehealth
+  - Healthcare
+  - Health Plans
+  - Artificial Intelligence
+  - Lyra Empower
+  - Lyra App
+  - Centers of Excellence
+url: https://raw.githubusercontent.com/api-evangelist/lyra-health/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.lyrahealth.com
+  - type: About
+    url: https://www.lyrahealth.com/about/
+  - type: Leadership
+    url: https://www.lyrahealth.com/about/leadership/
+  - type: Solutions
+    url: https://www.lyrahealth.com/solutions/
+  - type: ForEmployers
+    url: https://www.lyrahealth.com/for-employers/
+  - type: ForHealthPlans
+    url: https://www.lyrahealth.com/for-health-plans/
+  - type: LyraEmpower
+    url: https://www.lyrahealth.com/lyra-empower/
+  - type: LyraApp
+    url: https://www.lyrahealth.com/lyra-app/
+  - type: ClinicalResearch
+    url: https://www.lyrahealth.com/research/
+  - type: Security
+    url: https://www.lyrahealth.com/security/
+  - type: Newsroom
+    url: https://www.lyrahealth.com/news/
+  - type: Blog
+    url: https://www.lyrahealth.com/blog/
+  - type: Careers
+    url: https://careers.lyrahealth.com/
+  - type: Contact
+    url: https://www.lyrahealth.com/contact/
+  - type: MemberLogin
+    url: https://care.lyrahealth.com/
+  - type: GitHub
+    url: https://github.com/lyrahealth
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lyra-health
+  - type: Twitter
+    url: https://twitter.com/lyrahealth
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
