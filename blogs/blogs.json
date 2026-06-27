@@ -2,11 +2,11 @@
   "repo": "lyra-health",
   "feeds": [
     {
-      "source": "https://www.lyrahealth.com/blog/",
-      "feed_url": "https://www.lyrahealth.com/blog/feed/",
+      "source": "https://www.lyrahealth.com/feed/",
+      "feed_url": "https://www.lyrahealth.com/feed/",
       "title": "",
-      "saved": 0,
-      "method": "discovered"
+      "saved": 2,
+      "method": "feed"
     },
     {
       "source": "https://www.lyrahealth.com/news/",
@@ -16,6 +16,6 @@
       "method": "none"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 5,
+  "fetched": "2026-06-27T12:03:07Z"
 }
