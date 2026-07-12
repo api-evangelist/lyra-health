@@ -56,6 +56,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/lyra-health-trust-center.yml
+  - type: DomainSecurity
+    url: security/lyra-health-domain-security.yml
   - type: Website
     url: https://www.lyrahealth.com
   - type: About
